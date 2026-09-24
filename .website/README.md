@@ -1,4 +1,7 @@
 ---
+genres:
+  - platformer
+  - adventure
 video: https://youtu.be/iBstFRZtB9s
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
